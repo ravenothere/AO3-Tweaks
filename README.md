@@ -2,7 +2,7 @@
 
 A collection of CSS add-ons and userscripts to customize your AO3 experience.  
 
-All CSS add-ons can work standalone, but for the full experience i recommend using [Rosé Pine AO3 skin](https://github.com/Wolfbatcat/ao3-rose-pine) by @Wolfbatcat , as most of them are based on and designed to be complementary with this gorgeous site skin 
+All CSS add-ons can work standalone, but for the full experience i recommend using [Rosé Pine AO3 skin](https://github.com/Wolfbatcat/ao3-rose-pine) by [@Wolfbatcat](https://github.com/Wolfbatcat) , as most of them are based on and designed to be complementary with this gorgeous site skin 
 
 this is mostly self indulgent but i thought i might share in case anyone would find anything here helpful
 
@@ -130,7 +130,7 @@ Comes in two versions:
 mobile devices are very limited regarding font options, that's why your custom font doesnt apply on your mobile, because AO3's skin editor doesn't support `@font-face`, which is needed to load custom fonts. 
 
 This snippet lets you load any font using its host URL (from Google Fonts, GitHub, etc.) through Stylus instead.
->the CSS includes all Fonts recommended by @Wolfbatcat in the [Rosé Pine Site Skin instructions](https://archiveofourown.org/works/69993411).
+>the CSS includes all Fonts recommended by [@Wolfbatcat](https://github.com/Wolfbatcat) in the [Rosé Pine Site Skin instructions](https://archiveofourown.org/works/69993411).
 >
 *— Works on desktop too if you [don't have the font installed](#️make-sure-your-chosen-fonts-are-installed-on-your-device)*
 #### how to get your font URL:
@@ -168,7 +168,7 @@ the easiest method is through GitHub,
 
 ----------
 
-### Platonic Ship Tags - By @Wolfbatcat
+### Platonic Ship Tags - By [@Wolfbatcat](https://github.com/Wolfbatcat)
 
 [`add-ons/CSS/Platonic-tags/`](add-ons/CSS/Platonic-tags/) · **AO3 Skin**
 
@@ -179,11 +179,11 @@ defferentiates platonic relationship tags (X`&`Y) with their own custom color, a
 -   [**`Platonic-tags-light.css`**](add-ons/CSS/Platonic-tags/Platonic-tags-light.css) — for light themes
 -   [**`Platonic-tags-dark.css`**](add-ons/CSS/Platonic-tags/Platonic-tags-dark.css) — for dark themes
 
->ALL CREDITS TO @Wolfbatcat
+>ALL CREDITS TO [@Wolfbatcat](https://github.com/Wolfbatcat)
 
 ----------
 
-### Custom Fonts - By @Wolfbatcat
+### Custom Fonts - By [@Wolfbatcat](https://github.com/Wolfbatcat)
 
 [`add-ons/CSS/Custom-fonts/custom-fonts.css`](add-ons/CSS/Custom-fonts/custom-fonts.css) · **AO3 Skin**
 
@@ -199,7 +199,7 @@ sets custom site, headings, code, and work fonts.
 3. *select **Install** or **Install for all users**.*
 
 *if you are on mobile you have to apply [Custom Fonts for Mobile CSS](#custom-fonts-for-mobile) for your fonts to show up there*
->ALL CREDITS TO @Wolfbatcat
+>ALL CREDITS TO [@Wolfbatcat](https://github.com/Wolfbatcat)
 ----------
 
 ### EPUB Download Button
@@ -233,7 +233,20 @@ Two versions available:
 
 All snippets here are my own additions or modifications unless otherwise noted.  
 
-i wouldn't have been inspired to do any of this if it weren't for discovering @Wolfbatcat's AO3 [skin](https://github.com/Wolfbatcat/ao3-rose-pine) and [scripts](https://greasyfork.org/en/users/1498004-blackbatcat), go throw him flowers for all the amazing work he did 
+i wouldn't have been inspired to do any of this if it weren't for discovering [@Wolfbatcat](https://github.com/Wolfbatcat)'s AO3 [skin](https://github.com/Wolfbatcat/ao3-rose-pine) and [scripts](https://greasyfork.org/en/users/1498004-blackbatcat), go throw him flowers for all the amazing work he did 
 
 >*i genuenly had to start teaching myself how to edit and use CSS and JavaScript just for the sake of this newly discovered AO3 wellbeing,..
 a couple weeks ago i had near zero knowledge on how to navigate any code in general, but once i realized i CAN actually customize my OWN desired experience nothing could stop me anymore.*
+
+
+**Featured in the showcase screenshots:**
+- [Rosé Pine AO3 site skin](https://github.com/Wolfbatcat/ao3-rose-pine) — *obviously duh*
+- [AO3: Chapter Shortcuts](https://greasyfork.org/en/scripts/549571-ao3-chapter-shortcuts)
+- [AO3: Reading Time & Quality Score](https://greasyfork.org/en/scripts/549777-ao3-reading-time-quality-score)
+
+**Other Scripts i'm also using (100%recommend)**:
+- [AO3: Advanced Blocker](https://greasyfork.org/en/scripts/549942-ao3-advanced-blocker) — *VERY VERY customizable blocker for literally anything on the website, heals my OCD brain to the core, very beautiful and clean UI, basically a chef kiss*
+- [AO3: Reorder Ship Tags](https://greasyfork.org/en/scripts/562812-ao3-reorder-ship-tags) — *reorders ship tags so all platonic ships are placed at the end of the relationship tag order, for more organized and neat look*
+- [AO3: Quick Hide](https://greasyfork.org/en/scripts/564383-ao3-quick-hide) — *very convenient script that lets you hide-or more like collapse- works or comments, you can control the visability of the collapsed item which is so satisfying for some reason, i use it to hide fics that i've already read or downloaded* 
+- [AO3: Skin Switcher](https://greasyfork.org/en/scripts/551820-ao3-skin-switcher) — *tho i no longer switch my skins much anymore but its a very helpful shortcut that saves you the bother of navigating to your skins page, either to edit or set different skins*
+- [AO3: Site Wizard](https://greasyfork.org/en/scripts/550537-ao3-site-wizard) — *so basically that is all in one skin editor at your hands, you can customize the site's fonts colors, work formatting, very straightforward and easier UI for simple skin customizations*
