@@ -216,7 +216,7 @@ Two versions available:
     -   Works beautifully with [AO3: Chapter Shortcuts](https://greasyfork.org/en/scripts/549571-ao3-chapter-shortcuts)
     -   Button positions itself after any existing buttons
 
-   <img src="Images/epub-btn-v2.png" width="75%" />
+   <img src="Images/epub-btn-v2.png" width="55%" />
 
 
 -   **V1 - Bottom-Left Corner** *— kept for anyone who prefers this style* (looks better on desktop)
