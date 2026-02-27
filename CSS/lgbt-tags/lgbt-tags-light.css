@@ -1,0 +1,252 @@
+/* LGBTQ+ Flags - Light Theme Pastel Gradients */
+
+/* Rainbow Pride */
+[class^="freeform"] a.tag[href*="LGBTQ" i],
+[class^="freeform"] a.tag[href*="LGBT" i],
+[class^="freeform"] a.tag[href*="Queer" i],
+[class^="freeform"] a.tag[href="/tags/Queer/works" i],
+[class^="freeform"] a.tag[href*="Homosexual" i],
+[class^="freeform"] a.tag[href*="Homoromantic" i],
+[class^="freeform"] a.tag[href*="Pride" i]:not([href*="House%20Pride" i]):not([href*="Slytherin%20Pride" i]):not([href*="Gryffindor%20Pride" i]):not([href*="Ravenclaw%20Pride" i]):not([href*="Hufflepuff%20Pride" i]):not([href*="Pride%20and%20Prejudice" i]):not([href*="Pride%20Ring" i]):not([href*="Sin" i]):not([href*="Pride%20Demon" i]):not([href*="Pride%20Land" i]):not([href*="Ayamatsu" i]):not([href*="What%20Pride" i]):not([href*="Prides" i]),
+[class^="freeform"] a.tag[href*="Everyone%20is%20Gay" i],
+[class^="freeform"] a.tag[href*="Love%20is%20Love" i],
+[class^="freeform"] a.tag[href="/tags/Love%20is%20Love/works" i] {
+    background: linear-gradient(to bottom, #ffb3ba, #ffdfba, #ffffba, #baffc9, #bae1ff, #d4baff) !important;
+}
+
+/* Gay (MLM - Blue) */
+[class^="freeform"] a.tag[href*="Gay" i]:not([href*="Everyone" i]):not([href*="everyone" i]),
+[class^="freeform"] a.tag[href="/tags/Gay/works" i],
+[class^="freeform"] a.tag[href*="Yaoi" i],
+[class^="freeform"] a.tag[href*="MLM" i] {
+    background: linear-gradient(to bottom, #a3d9d3, #b3e5d9, #c9f2e8, #ffffff, #c9e8f5, #b3d9f5, #a3c9eb) !important;
+}
+
+/* Lesbian */
+[class^="freeform"] a.tag[href*="Lesbian" i],
+[class^="freeform"] a.tag[href="/tags/Lesbian/works" i],
+[class^="freeform"] a.tag[href*="Yuri" i] {
+    background: linear-gradient(to bottom, #ffb3c1, #ffd4e5, #ffffff, #ffd4e5, #ffb3c1) !important;
+}
+
+/* Sapphic (WLW) */
+[class^="freeform"] a.tag[href*="Sapphic" i],
+[class^="freeform"] a.tag[href*="WLW" i] {
+    background: linear-gradient(to bottom, #ffb3c1, #ffe6f5, #ffb3c1) !important;
+}
+
+/* Bisexual */
+[class^="freeform"] a.tag[href*="Bisexual" i],
+[class^="freeform"] a.tag[href*="Bi%20" i],
+[class^="freeform"] a.tag[href*="Bi!" i],
+[class^="freeform"] a.tag[href*="%20Bi%20" i],
+[class^="freeform"] a.tag[href="/tags/Bi/works" i] {
+    background: linear-gradient(to bottom, #ffb3d9, #d4b3d9, #b3c9ff) !important;
+}
+
+/* Biromantic */
+[class^="freeform"] a.tag[href*="Biromantic" i],
+[class^="freeform"] a.tag[href*="Bi-romantic" i],
+[class^="freeform"] a.tag[href="/tags/Biromantic/works" i] {
+    background: linear-gradient(to bottom, #ffb3d9, #d4b3d9, #b3c9ff) !important;
+}
+
+/* Pansexual */
+[class^="freeform"] a.tag[href*="Pansexual" i],
+[class^="freeform"] a.tag[href*="Pan%20" i],
+[class^="freeform"] a.tag[href*="Pan!" i],
+[class^="freeform"] a.tag[href*="%20Pan%20" i],
+[class^="freeform"] a.tag[href="/tags/Pan/works" i] {
+    background: linear-gradient(to bottom, #ffb3d9, #fffabd, #b3e5fc) !important;
+}
+
+/* Panromantic */
+[class^="freeform"] a.tag[href*="Panromantic" i],
+[class^="freeform"] a.tag[href*="Pan-romantic" i],
+[class^="freeform"] a.tag[href="/tags/Panromantic/works" i] {
+    background: linear-gradient(to bottom, #ffb3d9, #fffabd, #b3e5fc) !important;
+}
+
+/* Omnisexual */
+[class^="freeform"] a.tag[href*="Omnisexual" i],
+[class^="freeform"] a.tag[href*="Omni%20" i],
+[class^="freeform"] a.tag[href*="Omni!" i],
+[class^="freeform"] a.tag[href="/tags/Omnisexual/works" i] {
+    background: linear-gradient(to bottom, #ffb3c1, #ffb3d9, #4d2d7a, #6b8fff, #b3e5fc) !important;
+}
+
+/* Polysexual */
+[class^="freeform"] a.tag[href*="Polysexual" i],
+[class^="freeform"] a.tag[href="/tags/Polysexual/works" i] {
+    background: linear-gradient(to bottom, #ffb3d9, #b3f5b3, #b3e5fc) !important;
+}
+
+/* Ceterosexual/Skoliosexual */
+[class^="freeform"] a.tag[href*="Ceterosexual" i],
+[class^="freeform"] a.tag[href*="Skoliosexual" i],
+[class^="freeform"] a.tag[href="/tags/Ceterosexual/works" i],
+[class^="freeform"] a.tag[href="/tags/Skoliosexual/works" i] {
+    background: linear-gradient(to bottom, #fffabd, #b8e6b8, #ffffff, #4d4d4d) !important;
+}
+
+/* Transgender */
+[class^="freeform"] a.tag[href*="Transgender" i],
+[class^="freeform"] a.tag[href*="Trans%20" i],
+[class^="freeform"] a.tag[href*="Trans!" i],
+[class^="freeform"] a.tag[href*="%20Trans%20" i],
+[class^="freeform"] a.tag[href="/tags/Trans/works" i] {
+    background: linear-gradient(to bottom, #b3e5fc, #ffc9d9, #ffffff, #ffc9d9, #b3e5fc) !important;
+}
+
+/* Non-binary */
+[class^="freeform"] a.tag[href*="Non-Binary" i],
+[class^="freeform"] a.tag[href*="Nonbinary" i],
+[class^="freeform"] a.tag[href*="Non%20Binary" i],
+[class^="freeform"] a.tag[href="/tags/Nonbinary/works" i],
+[class^="freeform"] a.tag[href="/tags/Non-Binary/works" i],
+[class^="freeform"] a.tag[href="/tags/Non%20Binary/works" i],
+[class^="freeform"] a.tag[href*="Enby" i] {
+    background: linear-gradient(to bottom, #fff7ba, #ffffff, #d5b3f4, #4d4d4d) !important;
+}
+
+/* Bigender */
+[class^="freeform"] a.tag[href*="Bigender" i],
+[class^="freeform"] a.tag[href*="Bi-gender" i],
+[class^="freeform"] a.tag[href="/tags/Bigender/works" i] {
+    background: linear-gradient(to bottom, #c88fb3, #ffc9d9, #e6c9e6, #ffffff, #e6c9e6, #b3e5fc, #8ca2d9) !important;
+}
+
+/* Trigender */
+[class^="freeform"] a.tag[href*="Trigender" i],
+[class^="freeform"] a.tag[href*="Tri-gender" i],
+[class^="freeform"] a.tag[href="/tags/Trigender/works" i] {
+    background: linear-gradient(to bottom, #ffb3c1, #b3d9ff, #b3f5b3, #b3d9ff, #ffb3c1) !important;
+}
+
+/* Pangender */
+[class^="freeform"] a.tag[href*="Pangender" i],
+[class^="freeform"] a.tag[href*="Pan-gender" i],
+[class^="freeform"] a.tag[href="/tags/Pangender/works" i] {
+    background: linear-gradient(to bottom, #fff7ba, #ffd4ba, #ffcce6, #ffffff, #ffcce6, #ffd4ba, #fff7ba) !important;
+}
+
+/* Intersex */
+[class^="freeform"] a.tag[href*="Intersex" i],
+[class^="freeform"] a.tag[href*="Intergender" i],
+[class^="freeform"] a.tag[href="/tags/Intersex/works" i],
+[class^="freeform"] a.tag[href="/tags/Intergender/works" i] {
+    background: linear-gradient(to bottom, #fffabd, #d5b3f4, #fffabd) !important;
+}
+
+/* Asexual */
+[class^="freeform"] a.tag[href*="Asexual" i]:not([href*="Aro" i]):not([href*="Aromantic" i]),
+[class^="freeform"] a.tag[href^="/tags/Ace" i],
+[class^="freeform"] a.tag[href*="%20Ace%20" i]:not([href*="Aro" i]):not([href*="Aromantic" i]),
+[class^="freeform"] a.tag[href*="%20Ace!" i]:not([href*="Aro" i]):not([href*="Aromantic" i]),
+[class^="freeform"] a.tag[href="/tags/Asexual/works" i] {
+    background: linear-gradient(to bottom, #4d4d4d, #b8b8b8, #ffffff, #d5b3f4) !important;
+}
+
+/* Gray-Asexual */
+[class^="freeform"] a.tag[href*="Gray-Asexual" i],
+[class^="freeform"] a.tag[href*="Grey-Asexual" i],
+[class^="freeform"] a.tag[href*="Graysexual" i],
+[class^="freeform"] a.tag[href*="Greysexual" i],
+[class^="freeform"] a.tag[href*="Grayasexual" i],
+[class^="freeform"] a.tag[href*="Greyasexual" i],
+[class^="freeform"] a.tag[href*="Gray%20Asexual" i],
+[class^="freeform"] a.tag[href*="grey%20asexual" i],
+[class^="freeform"] a.tag[href*="Gray-Ace" i],
+[class^="freeform"] a.tag[href*="Grey-Ace" i],
+[class^="freeform"] a.tag[href*="Grayace" i],
+[class^="freeform"] a.tag[href*="Greyace" i],
+[class^="freeform"] a.tag[href="/tags/Grayasexual/works" i],
+[class^="freeform"] a.tag[href="/tags/Greyasexual/works" i],
+[class^="freeform"] a.tag[href="/tags/Graysexual/works" i],
+[class^="freeform"] a.tag[href="/tags/Greysexual/works" i] {
+    background: linear-gradient(to bottom, #d5b3f4, #b8b8b8, #ffffff, #b8b8b8, #d5b3f4) !important;
+}
+
+/* Aromantic */
+[class^="freeform"] a.tag[href*="Aromantic" i]:not([href*="Ace" i]):not([href*="Asexual" i]),
+[class^="freeform"] a.tag[href^="/tags/Aro" i],
+[class^="freeform"] a.tag[href*="%20Aro%20" i]:not([href*="Ace" i]):not([href*="Asexual" i]),
+[class^="freeform"] a.tag[href*="%20Aro!" i]:not([href*="Ace" i]):not([href*="Asexual" i]),
+[class^="freeform"] a.tag[href="/tags/Aromantic/works" i] {
+    background: linear-gradient(to bottom, #b8e6b8, #d4f0c9, #ffffff, #d9d9d9, #4d4d4d) !important;
+}
+
+/* Gray-Romantic */
+[class^="freeform"] a.tag[href*="Gray-Romantic" i],
+[class^="freeform"] a.tag[href*="Grey-Romantic" i],
+[class^="freeform"] a.tag[href*="Grayromantic" i],
+[class^="freeform"] a.tag[href*="Greyromantic" i],
+[class^="freeform"] a.tag[href*="Gray%20Romantic" i],
+[class^="freeform"] a.tag[href*="grey%20romantic" i],
+[class^="freeform"] a.tag[href*="Gray-Aro" i],
+[class^="freeform"] a.tag[href*="Grey-Aro" i],
+[class^="freeform"] a.tag[href*="Grayaro" i],
+[class^="freeform"] a.tag[href*="Greyaro" i] {
+    background: linear-gradient(to bottom, #b8e6b8, #b8b8b8, #ffffff, #b8b8b8, #b8e6b8) !important;
+}
+
+/* Aroace (Aromantic Asexual) */
+[class^="freeform"] a.tag[href*="Aroace" i],
+[class^="freeform"] a.tag[href*="Aro-ace" i],
+[class^="freeform"] a.tag[href*="Aro%20Ace" i],
+[class^="freeform"] a.tag[href*="Ace%20Aro" i],
+[class^="freeform"] a.tag[href*="Aro/Ace" i],
+[class^="freeform"] a.tag[href*="Ace/Aro" i],
+[class^="freeform"] a.tag[href*="Aromantic%20Asexual" i],
+[class^="freeform"] a.tag[href*="Asexual%20Aromantic" i],
+[class^="freeform"] a.tag[href="/tags/Aroace/works" i],
+[class^="freeform"] a.tag[href="/tags/Aro-ace/works" i] {
+    background: linear-gradient(to bottom, #ffb347, #fff7ba, #ffffff, #b3d9ff, #6b4ba8) !important;
+}
+
+/* Genderfluid */
+[class^="freeform"] a.tag[href*="Genderfluid" i],
+[class^="freeform"] a.tag[href*="Gender%20Fluid" i],
+[class^="freeform"] a.tag[href="/tags/Genderfluid/works" i] {
+    background: linear-gradient(to bottom, #ffb3d9, #ffffff, #d5b3f4, #4d4d4d, #5b7fbf) !important;
+}
+
+/* Genderqueer */
+[class^="freeform"] a.tag[href*="Genderqueer" i],
+[class^="freeform"] a.tag[href*="Gender%20Queer" i],
+[class^="freeform"] a.tag[href="/tags/Genderqueer/works" i] {
+    background: linear-gradient(to bottom, #d5b3f4, #ffffff, #b8e6b8) !important;
+}
+
+/* Agender */
+[class^="freeform"] a.tag[href*="Agender" i],
+[class^="freeform"] a.tag[href="/tags/Agender/works" i] {
+    background: linear-gradient(to bottom, #4d4d4d, #c4c4c4, #ffffff, #c4f0c9, #ffffff, #c4c4c4, #4d4d4d) !important;
+}
+
+/* Demisexual */
+[class^="freeform"] a.tag[href*="Demisexual" i],
+[class^="freeform"] a.tag[href*="Demi%20" i],
+[class^="freeform"] a.tag[href*="Demi!" i],
+[class^="freeform"] a.tag[href="/tags/Demisexual/works" i] {
+    background: linear-gradient(to bottom, #ffffff, #ffffff, #ffffff, #d5b3f4, #c4c4c4, #c4c4c4, #c4c4c4) !important;
+}
+
+/* Demiromantic */
+[class^="freeform"] a.tag[href*="Demiromantic" i],
+[class^="freeform"] a.tag[href="/tags/Demiromantic/works" i] {
+    background: linear-gradient(to bottom, #ffffff, #ffffff, #ffffff, #b8e6b8, #c4c4c4, #c4c4c4, #c4c4c4) !important;
+}
+
+/* Polyamorous */
+[class^="freeform"] a.tag[href*="Polyamorous" i],
+[class^="freeform"] a.tag[href*="Polyamory" i],
+[class^="freeform"] a.tag[href*="Poly%20" i],
+[class^="freeform"] a.tag[href="/tags/Polyamorous/works" i] {
+    background: linear-gradient(to bottom, #b3e5fc, #ff1a8c, #4d2d7a) !important;
+}
+
+/* BLOCK ALL PHOBIA/PHOBIC TAGS - Must be last to override */
+[class*="freeform"] a.tag[href*="phob" i] {
+  background: var(--tag-default-bg) !important;
+}

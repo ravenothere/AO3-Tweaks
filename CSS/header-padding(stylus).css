@@ -1,0 +1,15 @@
+/* ==UserStyle==
+@name           AO3: Header Padding
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    adds padding to the header on desktop and wider screens
+@author         ravenothere
+==/UserStyle== */
+
+@-moz-document domain("archiveofourown.org") {
+@media (min-width: 49.5em) {
+  #header,
+  #tos_prompt .heading {
+    padding-block: 0.5em;
+  }
+}}

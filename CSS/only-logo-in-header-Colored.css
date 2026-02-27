@@ -1,0 +1,9 @@
+#header .logo {
+  filter: brightness(0) saturate(100%) invert(60%) sepia(87%) saturate(545%) hue-rotate(305deg) brightness(96%) contrast(92%);
+  -webkit-filter: brightness(0) saturate(100%) invert(60%) sepia(87%) saturate(545%) hue-rotate(305deg) brightness(96%) contrast(92%);
+}
+
+#header h1.heading a span,
+#header h1.heading a sup {
+  display: none;
+}
