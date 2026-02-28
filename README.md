@@ -121,6 +121,11 @@ Comes in two versions:
 
 <img src="images/lgbt-tags.png" width="75%" />
 
+>**Credits:**
+>
+>- based on CSS prompt by [@Wolfbatcat](https://github.com/Wolfbatcat)
+>
+>- inspired by [Highlight AO3 Tags](https://highlight-ao3-tags.tumblr.com/post/686264065659633664/spreadsheet-pride)'s pride tags by [mistbornhero](https://www.tumblr.com/mistbornhero) on Tumblr
 ----------
 
 ### Custom Fonts for Mobile
@@ -244,7 +249,7 @@ works on any website that supports this feature but honestly i made it mainly fo
 >
 >*and i thought 'cant i just turn all that into a button or something that is easier to access?!' that is when i set my mind into it.*
 
- **note:** if THE GIF preview above makes it look slower, i assure you it's not, this is just GIF being GIF, it's a very fast and light button, enjoy.
+ **note:** if THE GIF preview above makes it look slower or shows latency in loading the skin colors, i assure you it's not, this is just GIF being GIF, it's a very fast and light button, enjoy.
 
 ## Credits
 
