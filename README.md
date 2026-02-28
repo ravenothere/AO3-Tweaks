@@ -6,7 +6,7 @@ All CSS add-ons can work standalone, but for the full experience i recommend usi
 
 this is mostly self indulgent but i thought i might share in case anyone would find anything here helpful
 
-> **Note:** My personal edits to Rosé Pine skin: [AO3 Rosé Pine — Closer to Home] lives in a separate Fork // will link it here //
+> **Note:** My personal edits to Rosé Pine skin: [AO3 Rosé Pine — Closer to Home] lives in a separate Fork // will link it here//
 
 ----------
 
@@ -25,48 +25,48 @@ this is mostly self indulgent but i thought i might share in case anyone would f
     -   [Platonic Ship Tags](#platonic-ship-tags---by-wolfbatcat)
     -   [Custom Fonts](#custom-fonts---by-wolfbatcat)
     -   [EPUB Download Button](#epub-download-button)
+    -   [Bonus: Light/Dark toolbar toggle button for Zen & Firefox users](#bonus-lightdark-toolbar-toggle-button-for-zen--firefox-users)
 
 ----------
 
 ## Installation
+  
+  ### AO3 Site Skin (CSS)
 
-### AO3 Site Skin (CSS)
+  You can paste them directly into an AO3 site skin:
 
- You can paste them directly into an AO3 site skin:
+  1.  Log into AO3 and go to **Dashboard → Skins → My Site Skins → Create Site Skin**
+  2.  Give it a name, then paste the CSS into the **CSS** field
+  3.  Click **Create** and then **Use** to activate it
+  4.  To stack multiple snippets, either combine them into one skin or use AO3's **parent skin** feature to layer skins on top of each other
 
-1.  Log into AO3 and go to **Dashboard → Skins → My Site Skins → Create Site Skin**
-2.  Give it a name, then paste the CSS into the **CSS** field
-3.  Click **Create** and then **Use** to activate it
-4.  To stack multiple snippets, either combine them into one skin or use AO3's **parent skin** feature to layer skins on top of each other
+  > Some snippets on this list are marked **(Stylus only)** — AO3's skin editor restricts certain CSS features like `@font-face`, so those need to be applied through Stylus instead.
 
-> Some snippets on this list are marked **(Stylus only)** — AO3's skin editor restricts certain CSS features like `@font-face`, so those need to be applied through Stylus instead.
+  ----------
 
-----------
+  ### Stylus (CSS)
 
-### Stylus (CSS)
+  [Stylus](https://github.com/openstyles/stylus) is a browser extension that lets you inject CSS into any website, bypassing AO3's skin restrictions.
 
-[Stylus](https://github.com/openstyles/stylus) is a browser extension that lets you inject CSS into any website, bypassing AO3's skin restrictions.
+  1.  Install Stylus for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) or [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
+  2.  Click the Stylus icon in your browser toolbar (or extensions menu)
+  3. Navigate to the gear icon `⚙️` **Options/Settings**→ Look for a plus icon `➕`  **Write new style**
+  4.  Paste the CSS and click **Save**
 
-1.  Install Stylus for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) or [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
-2.  Click the Stylus icon in your browser toolbar (or extensions menu)
-3. Navigate to the gear icon `⚙️` **Options/Settings**→ Look for a plus icon `➕`  **Write new style**
-4.  Paste the CSS and click **Save**
+  > On mobile, Stylus is available through **Firefox for Android**. Other mobile browsers may not support extensions.
 
-> On mobile, Stylus is available through **Firefox for Android**. Other mobile browsers may not support extensions.
+  ----------
 
-----------
+  ### Userscripts (JS via Greasyfork)
 
-### Userscripts (JS via Greasyfork)
+  Userscripts require a script manager extension to run.
 
-Userscripts require a script manager extension to run.
+  1.  Install [Tampermonkey](https://www.tampermonkey.net/) (or any script manager) for your browser
+  2.  Go to the script's [Greasyfork](https://greasyfork.org/en/users/1565271-merna) page (linked in the relevant section below) and click **Install**
+  3.  Confirm the installation prompt
 
-1.  Install [Tampermonkey](https://www.tampermonkey.net/) (or any script manager) for your browser
-2.  Go to the script's [Greasyfork](https://greasyfork.org/en/users/1565271-merna) page (linked in the relevant section below) and click **Install**
-3.  Confirm the installation prompt
-
-> On mobile Firefox, Tampermonkey is available as an add-on and works the same way.
-
-----------
+  > On mobile Firefox, Tampermonkey is available as an add-on and works the same way.
+  ----------
 
 ## Add-ons
 
@@ -78,7 +78,7 @@ Hides the unclickable previous/next pagination buttons that appear when there's 
 
 A small quality-of-life tweak that keeps the interface looking clean.
 
-<img src="Images/hide-nav-buttons.png" width="75%" />
+<img src="images/hide-nav-buttons.png" width="75%" />
 
 ----------
 
@@ -102,7 +102,7 @@ Adds a little breathing room to the header bar so it sits more comfortably on de
 
 Applied via [Stylus](#stylus-css) because it pairs with layout-level adjustments that work better outside AO3's skin system.
 
-<img src="Images/header-padding.png" width="75%" />
+<img src="images/header-padding.png" width="75%" />
 
 ----------
 
@@ -112,14 +112,14 @@ Applied via [Stylus](#stylus-css) because it pairs with layout-level adjustments
 
 Assigns colors inspired by pride flags to their corresponding tags, making them visually distinct at a glance while browsing. 
 
-> **any** related tag will be color coded with it's corresponding flag colors, the CSS is very detailed and hopefully covers any LGBTQ+ related tag as it includes up to **30 Orientations**, *the showcased example in the screenshot below doesn't cover all of them*
+> **any** related tag will be color coded with it's corresponding flag colors, the CSS is very detailed and hopefully covers any LGBTQ+ related tag as it includes up to **30 Orientations**, *the showcased example in the preview below doesn't cover all of them*
 
 Comes in two versions:
 
 -   [**`lgbt-tags-light.css`**](add-ons/CSS/lgbt-tags/lgbt-tags-light.css) — for light themes
 -   [**`lgbt-tags-dark.css`**](add-ons/CSS/lgbt-tags/lgbt-tags-dark.css) — for dark themes
 
-<img src="Images/lgbt-tags.png" width="75%" />
+<img src="images/lgbt-tags.png" width="75%" />
 
 ----------
 
@@ -162,7 +162,7 @@ the easiest method is through GitHub,
 
     TO:   `https://cdn.jsdelivr.net/gh/[user]/[repo]@[branch]/[path]`
 
->**Alternatively**, the [Fontonic](https://addons.mozilla.org/en-US/android/addon/fontonic/) add-on can change fonts without Stylus, but its font selection is quite limited and it loads noticeably slower. 
+>**Alternatively**, [Fontonic](https://addons.mozilla.org/en-US/android/addon/fontonic/) add-on can change fonts without Stylus, but its font selection is quite limited and it loads noticeably slower. 
 >
 >The Stylus method is recommended — all you need is the font's [CSS URL](#how-to-get-your-font-url) from your font host, and trust me it's worth the effort.
 
@@ -216,17 +216,35 @@ Two versions available:
     -   Works beautifully with [AO3: Chapter Shortcuts](https://greasyfork.org/en/scripts/549571-ao3-chapter-shortcuts)
     -   Button positions itself after any existing buttons
 
-   <img src="Images/epub-btn-v2.png" width="55%" />
+   <img src="images/epub-btn-v2.png" width="55%" />
 
 
 -   **V1 - Bottom-Left Corner** *— kept for anyone who prefers this style* (looks better on desktop)
 
     **Button appears at bottom-left** of work blurbs
 
-    <img src="Images/epub-btn-v1.png" width="75%" />
+    <img src="images/epub-btn-v1.png" width="75%" />
 
 
 ----------
+## Bonus: Light/Dark toolbar toggle button for Zen & Firefox users
+
+A toolbar button i made for my Zen Browser that toggles website dark/light appearance with a single click using the built-in color-scheme preference in the browser settings.
+
+If your skin has the `prefers-color-scheme` feature that switches the site appearance from light to dark mode according to your OS preference, you're in the right place.
+
+<img src="https://raw.githubusercontent.com/ravenothere/Zen-Site-Appearance-Toggle/refs/heads/main/images/zen-site-appearance-toggle-preview.png" width="75%" />
+<img src="images/zen-site-appearance-toggle-preview-ao3.gif" width="75%" />
+
+**[you can find all the instructions and everything about how to set it up, here](https://github.com/ravenothere/Zen-Site-Appearance-Toggle)**
+
+works on any website that supports this feature but honestly i made it mainly for the sole purpose of enhancing my AO3 experience even more,
+
+>*i am a light-mode girl but i love the skin's dark mode alot too and i wanted to enjoy it as much, and was lowkey bugged by having to go through the settings and navigate to the option to toggle the site appearance everytime,*
+>
+>*and i thought 'cant i just turn all that into a button or something that is easier to access?!' that is when i set my mind into it.*
+
+ **note:** if THE GIF preview above makes it look slower, i assure you it's not, this is just GIF being GIF, it's a very fast and light button, enjoy.
 
 ## Credits
 
@@ -239,7 +257,7 @@ i wouldn't have been inspired to do any of this if it weren't for discovering [@
 a couple weeks ago i had near zero knowledge on how to navigate any code in general, but once i realized i CAN actually customize my OWN desired experience nothing could stop me anymore.*
 
 
-**Featured in the showcase screenshots:**
+**Featured in the showcase preview:**
 - [Rosé Pine AO3 site skin](https://github.com/Wolfbatcat/ao3-rose-pine) — *obviously duh*
 - [AO3: Chapter Shortcuts](https://greasyfork.org/en/scripts/549571-ao3-chapter-shortcuts)
 - [AO3: Reading Time & Quality Score](https://greasyfork.org/en/scripts/549777-ao3-reading-time-quality-score)
