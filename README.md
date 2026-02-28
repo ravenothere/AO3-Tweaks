@@ -236,7 +236,7 @@ Two versions available:
 
 A toolbar button i made for my Zen Browser that toggles website dark/light appearance with a single click using the built-in color-scheme preference in the browser settings.
 
-If your skin has the `prefers-color-scheme` feature that switches the site appearance from light to dark mode according to your OS preference, you're in the right place.
+If your skin has the `prefers-color-scheme` feature that auto switches the site appearance either light or dark mode according to your OS preference, you're in the right place.
 
 <img src="https://raw.githubusercontent.com/ravenothere/Zen-Site-Appearance-Toggle/refs/heads/main/images/zen-site-appearance-toggle-preview.png" width="75%" />
 <img src="images/zen-site-appearance-toggle-preview-ao3.gif" width="75%" />
