@@ -215,7 +215,7 @@ Adds a convenient EPUB download button directly on blurbs so you don't have to g
 
 Two versions available:
 
-- **V2 - Next to Work Titles** *— recommended*
+- [**V2 - Next to Work Titles**](https://greasyfork.org/en/scripts/567812-ao3-epub-download-button-v2) *— recommended*
 
   **Button appears next to work titles** (after author names)
     -   Works beautifully with [AO3: Chapter Shortcuts](https://greasyfork.org/en/scripts/549571-ao3-chapter-shortcuts)
@@ -224,7 +224,7 @@ Two versions available:
    <img src="images/epub-btn-v2.png" width="55%" />
 
 
--   **V1 - Bottom-Left Corner** *— kept for anyone who prefers this style* (looks better on desktop)
+-   [**V1 - Bottom-Left Corner**](https://greasyfork.org/en/scripts/567811-ao3-epub-download-button-v1) *— kept for anyone who prefers this style* (looks better on desktop)
 
     **Button appears at bottom-left** of work blurbs
 
@@ -247,7 +247,7 @@ works on any website that supports this feature but honestly i made it mainly fo
 
 >*i am a light-mode girl but i love the skin's dark mode alot too and i wanted to enjoy it as much, and was lowkey bugged by having to go through the settings and navigate to the option to toggle the site appearance everytime,*
 >
->*and i thought 'cant i just turn all that into a button or something that is easier to access?!' that is when i set my mind into it.*
+>*and i thought 'cant i just turn all that into a button that is one click away and easier to access?!' that is when i set my mind into it.*
 
  **note:** if THE GIF preview above makes it look slower or shows latency in loading the skin colors, i assure you it's not, this is just GIF being GIF, it's a very fast and light button, enjoy.
 
@@ -262,7 +262,7 @@ i wouldn't have been inspired to do any of this if it weren't for discovering [@
 a couple weeks ago i had near zero knowledge on how to navigate any code in general, but once i realized i CAN actually customize my OWN desired experience nothing could stop me anymore.*
 
 
-**Featured in the showcase preview:**
+**Featured in the showcase previews:**
 - [Rosé Pine AO3 site skin](https://github.com/Wolfbatcat/ao3-rose-pine) — *obviously duh*
 - [AO3: Chapter Shortcuts](https://greasyfork.org/en/scripts/549571-ao3-chapter-shortcuts)
 - [AO3: Reading Time & Quality Score](https://greasyfork.org/en/scripts/549777-ao3-reading-time-quality-score)
