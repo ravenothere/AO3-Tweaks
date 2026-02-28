@@ -149,7 +149,7 @@ the easiest method is through GitHub,
 
       `https://github.com/[user]/[repo]/blob/[branch]/[path]`
       
-    ***note:** preferably chose the font file that ends with `.woff2` as this is the web font format and its most effecient for websites*
+    ***note:** preferably choose the font file that ends with `.woff2` as this is the web font format and its most effecient for websites*
 
  2. next you **must** convert the URL into a [JSDelivr](https://www.jsdelivr.com/) CDN link for it to work
     - you can simply paste the file URL you copied to [this tool](https://dt.in.th/GitHubToJSDelivr) where it will convert it into a JSDelivr URL
