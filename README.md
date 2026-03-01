@@ -6,7 +6,7 @@ All CSS add-ons can work standalone, but for the full experience i recommend usi
 
 this is mostly self indulgent but i thought i might share in case anyone would find anything here helpful
 
-> **Note:** My personal edits to Rosé Pine skin: [AO3 Rosé Pine — Closer to Home] lives in a separate Fork // will link it here//
+> **Note:** My personal edits to Rosé Pine skin: [AO3 Rosé Pine — Closer to Home](https://github.com/ravenothere/AO3-Rose-Pine-Closer-to-Home) lives in a separate Fork.
 
 ----------
 
