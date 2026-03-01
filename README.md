@@ -6,7 +6,7 @@ All CSS add-ons can work standalone, but for the full experience i recommend usi
 
 this is mostly self indulgent but i thought i might share in case anyone would find anything here helpful
 
-> **Note:** My personal edits to Rosé Pine skin: [AO3 Rosé Pine — Closer to Home](https://github.com/ravenothere/AO3-Rose-Pine-Closer-to-Home) lives in a separate Fork.
+> **Note:** My personal edits to Rosé Pine skin ( [AO3 Rosé Pine — Closer to Home](https://github.com/ravenothere/AO3-Rose-Pine-Closer-to-Home) ) lives in a separate Fork, it restores some of the default AO3 interface aesthetics to the theme
 
 ----------
 
@@ -123,7 +123,7 @@ Comes in two versions:
 
 >**Credits:**
 >
->- based on CSS prompt by [@Wolfbatcat](https://github.com/Wolfbatcat)
+>- based on a CSS by [@Wolfbatcat](https://github.com/Wolfbatcat)
 >
 >- inspired by [Highlight AO3 Tags](https://highlight-ao3-tags.tumblr.com/post/686264065659633664/spreadsheet-pride)'s pride tags by [mistbornhero](https://www.tumblr.com/mistbornhero) on Tumblr
 ----------
@@ -258,17 +258,17 @@ All snippets here are my own additions or modifications unless otherwise noted.
 
 i wouldn't have been inspired to do any of this if it weren't for discovering [@Wolfbatcat](https://github.com/Wolfbatcat)'s AO3 [skin](https://github.com/Wolfbatcat/ao3-rose-pine) and [scripts](https://greasyfork.org/en/users/1498004-blackbatcat), go throw him flowers for all the amazing work he did 
 
->*i genuenly had to start teaching myself how to edit and use CSS and JavaScript just for the sake of this newly discovered AO3 wellbeing,..
+>*i genuinely had to start teaching myself how to edit and use CSS and JavaScript just for the sake of this newly discovered AO3 wellbeing,..
 a couple weeks ago i had near zero knowledge on how to navigate any code in general, but once i realized i CAN actually customize my OWN desired experience nothing could stop me anymore.*
 
 
-**Featured in the showcase previews:**
+**Featured in the previews:**
 - [Rosé Pine AO3 site skin](https://github.com/Wolfbatcat/ao3-rose-pine) — *obviously duh*
 - [AO3: Chapter Shortcuts](https://greasyfork.org/en/scripts/549571-ao3-chapter-shortcuts)
 - [AO3: Reading Time & Quality Score](https://greasyfork.org/en/scripts/549777-ao3-reading-time-quality-score)
 
 **Other Scripts i'm also using (100%recommend)**:
-- [AO3: Advanced Blocker](https://greasyfork.org/en/scripts/549942-ao3-advanced-blocker) — *VERY VERY customizable blocker for literally anything on the website, heals my OCD brain to the core, very beautiful and clean UI, basically a chef kiss.*
+- [AO3: Advanced Blocker](https://greasyfork.org/en/scripts/549942-ao3-advanced-blocker) — *VERY VERY customizable blocker for literally anything on the website, heals my OCD brain to the core, very beautiful and clean UI, basically a gem.*
 - [AO3: Reorder Ship Tags](https://greasyfork.org/en/scripts/562812-ao3-reorder-ship-tags) — *reorders ship tags so all platonic ships are placed at the end of the relationship tag order, for more organized and neat look.*
 - [AO3: Quick Hide](https://greasyfork.org/en/scripts/564383-ao3-quick-hide) — *very convenient script that lets you hide-or more like collapse- works or comments, you can control the visibility of the collapsed item which is so satisfying for some reason, i use it to hide fics that i've already read or downloaded.* 
 - [AO3: Skin Switcher](https://greasyfork.org/en/scripts/551820-ao3-skin-switcher) — *tho i no longer switch my skins much anymore but its a very helpful shortcut that saves you the bother of navigating to your skins page, either to edit or set different skins.*
