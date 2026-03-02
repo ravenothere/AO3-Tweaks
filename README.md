@@ -35,7 +35,7 @@ this is mostly self indulgent but i thought i might share in case anyone would f
 
   You can paste them directly into an AO3 site skin:
 
-  1.  Log into AO3 and go to **Dashboard → Skins → My Site Skins → Create Site Skin**
+  1.  Log into AO3 and go to **Dashboard → Skins → My Site Skins → [Create Site Skin](https://archiveofourown.org/skins/new?skin_type=Skin)**
   2.  Give it a name, then paste the CSS into the **CSS** field
   3.  Click **Create** and then **Use** to activate it
   4.  To stack multiple snippets, either combine them into one skin or use AO3's **parent skin** feature to layer skins on top of each other
