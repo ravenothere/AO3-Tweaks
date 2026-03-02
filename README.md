@@ -190,7 +190,7 @@ defferentiates platonic relationship tags (X`&`Y) with their own custom color, a
 
 ### Custom Fonts - By [@Wolfbatcat](https://github.com/Wolfbatcat)
 
-[`add-ons/CSS/Custom-fonts/custom-fonts.css`](add-ons/CSS/Custom-fonts/custom-fonts.css) · **AO3 Skin**
+[`add-ons/CSS/custom-fonts.css`](add-ons/CSS/custom-fonts.css) · **AO3 Skin**
 
 Extracted from the [Rosé Pine Site Skin CSS](https://github.com/Wolfbatcat/ao3-rose-pine), 
 
