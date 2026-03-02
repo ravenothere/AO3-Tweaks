@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name           AO3: Header Padding
-@namespace      github.com/openstyles/stylus
+@namespace      https://github.com/ravenothere/AO3-Tweaks
 @version        1.0.0
 @description    adds padding to the header on desktop and wider screens
 @author         ravenothere
@@ -12,4 +12,5 @@
   #tos_prompt .heading {
     padding-block: 0.5em;
   }
+
 }}
