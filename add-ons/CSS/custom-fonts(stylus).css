@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name           AO3: Fonts
-@namespace      github.com/openstyles/stylus
+@namespace      https://github.com/ravenothere/AO3-Tweaks
 @version        1.0.0
 @description    load your custom fonts
 @author         ravenothere
@@ -33,4 +33,5 @@
 @font-face {
   font-family: "Figtree";
   src: url("https://cdn.jsdelivr.net/gh/erikdkennedy/figtree@master/fonts/webfonts/Figtree%5Bwght%5D.woff2");
+
 }}
