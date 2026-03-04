@@ -2,7 +2,7 @@
 // @name         AO3: EPUB Download Button V2
 // @version      2.0
 // @description  Adds a customizable EPUB download button next to work titles on AO3 blurbs
-// @author       Merna
+// @author       ravenothere
 // @license      MIT
 // @match        *://archiveofourown.org/*
 // @grant        none
