@@ -62,7 +62,7 @@ this is mostly self indulgent but i thought i might share in case anyone would f
   Userscripts require a script manager extension to run.
 
   1.  Install [Tampermonkey](https://www.tampermonkey.net/) (or any script manager) for your browser
-  2.  Go to the script's [Greasyfork](https://greasyfork.org/en/users/1565271-merna) page (linked in the relevant section below) and click **Install**
+  2.  Go to the script's [Greasyfork](https://greasyfork.org/users/1565271-ravenothere) page (linked in the relevant section below) and click **Install**
   3.  Confirm the installation prompt
 
   > On mobile Firefox, Tampermonkey is available as an add-on and works the same way.
@@ -209,7 +209,7 @@ sets custom site, headings, code, and work fonts.
 
 ### EPUB Download Button
 
-[`add-ons/JavaScript/EPUB-Download-Buttons/`](add-ons/JavaScript/EPUB-Download-Buttons/) · [**Greasyfork**](https://greasyfork.org/en/users/1565271-merna)
+[`add-ons/JavaScript/EPUB-Download-Buttons/`](add-ons/JavaScript/EPUB-Download-Buttons/) · [**Greasyfork**](https://greasyfork.org/users/1565271-ravenothere)
 
 Adds a convenient EPUB download button directly on blurbs so you don't have to go through the full work page then the download menu. it's simply there while you are browsing.
 
