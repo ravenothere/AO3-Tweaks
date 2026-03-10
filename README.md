@@ -4,8 +4,6 @@ A collection of CSS add-ons and userscripts to customize your AO3 experience.
 
 All CSS add-ons can work standalone, but for the full experience i recommend using [Rosé Pine AO3 skin](https://github.com/Wolfbatcat/ao3-rose-pine) by [@Wolfbatcat](https://github.com/Wolfbatcat) , as most of them are based on and designed to be complementary with this gorgeous site skin 
 
-this is mostly self indulgent but i thought i might share in case anyone would find anything here helpful
-
 > **Note:** My personal edits to Rosé Pine skin ( [AO3 Rosé Pine — Closer to Home](https://github.com/ravenothere/AO3-Rose-Pine-Closer-to-Home) ) lives in a separate Fork, it restores some of the default AO3 interface aesthetics to the theme
 
 ----------
@@ -138,6 +136,10 @@ This snippet lets you load any font using its host URL (from Google Fonts, GitHu
 >the CSS includes all Fonts recommended by [@Wolfbatcat](https://github.com/Wolfbatcat) in the [Rosé Pine Site Skin instructions](https://archiveofourown.org/works/69993411).
 >
 *— Works on desktop too if you [don't have the font installed](#️make-sure-your-chosen-fonts-are-installed-on-your-device)*
+
+> **also worth checking out:** [AO3: Rosé Pine Fonts](https://userstyles.world/style/26908/ao3-rose-pine-fonts) userstyle by [@Wolfbatcat](https://github.com/Wolfbatcat) — it has all the Rosé Pine skin fonts ready to go, and also includes customization options for font size, and separate font choices for the site, headings, code, and work pages. the customization instructions are in the userstyle notes.
+
+> — can also be used as a standalone with any AO3 skin — not just Rosé Pine.
 #### how to get your font URL:
 the easiest method is through GitHub,
 
@@ -195,7 +197,7 @@ defferentiates platonic relationship tags (X`&`Y) with their own custom color, a
 Extracted from the [Rosé Pine Site Skin CSS](https://github.com/Wolfbatcat/ao3-rose-pine), 
 
 sets custom site, headings, code, and work fonts.
-(i wanted to have it as a separate skin just because i am lazy and don't want to modify my custom fonts on every update of the skin)
+> useful if you want to keep your font choices separate so you don't have to re-enter them on every skin update.
 
 #### ⚠️MAKE SURE YOUR CHOSEN FONTS ARE INSTALLED ON YOUR DEVICE
 
@@ -263,7 +265,7 @@ a couple weeks ago i had near zero knowledge on how to navigate any code in gene
 
 
 **Featured in the previews:**
-- [Rosé Pine AO3 site skin](https://github.com/Wolfbatcat/ao3-rose-pine) — *obviously duh*
+- [Rosé Pine AO3 site skin](https://github.com/Wolfbatcat/ao3-rose-pine) — specifically my version: [Rosé Pine — Closer to Home](https://github.com/ravenothere/AO3-Rose-Pine-Closer-to-Home)
 - [AO3: Chapter Shortcuts](https://greasyfork.org/en/scripts/549571-ao3-chapter-shortcuts)
 - [AO3: Reading Time & Quality Score](https://greasyfork.org/en/scripts/549777-ao3-reading-time-quality-score)
 
