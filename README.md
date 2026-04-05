@@ -237,7 +237,7 @@ Two versions available:
 ----------
 ### Unread Messages next to Favorites
 
-`add-ons/JavaScript/unread-messages-next-to-Favorites.js` · [**Greasyfork**](https://greasyfork.org/users/1565271-ravenothere)
+[`add-ons/JavaScript/unread-messages-next-to-Favorites.js`](https://greasyfork.org/en/scripts/572690-ao3-unread-messages-next-to-favorites) · [**Greasyfork**](https://greasyfork.org/users/1565271-ravenothere)
 
 Moves the Unread Messages section next to the Favorites list on the AO3 home page
 
