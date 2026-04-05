@@ -23,6 +23,7 @@ All CSS add-ons can work standalone, but for the full experience i recommend usi
     -   [Platonic Ship Tags](#platonic-ship-tags---by-wolfbatcat)
     -   [Custom Fonts](#custom-fonts---by-wolfbatcat)
     -   [EPUB Download Button](#epub-download-button)
+    -   [Unread Messages next to Favorites](#unread-messages-next-to-favorites)
     -   [Bonus: Light/Dark toolbar toggle button for Zen & Firefox users](#bonus-lightdark-toolbar-toggle-button-for-zen--firefox-users)
 
 ----------
@@ -234,6 +235,17 @@ Two versions available:
 
 
 ----------
+### Unread Messages next to Favorites
+
+`add-ons/JavaScript/unread-messages-next-to-Favorites.js` · [**Greasyfork**](https://greasyfork.org/users/1565271-ravenothere)
+
+Moves the Unread Messages section next to the Favorites list on the AO3 home page
+
+<img src="images/unread-next-to-favorites-desktop.png" width="70%" />
+<img src="images/unread-next-to-favorites-mobile.png" width="40%" />
+
+> Based on [Charles Rockafellor](https://greasyfork.org/en/users/1555174-charles-rockafellor)'s script : [AO3: put new comments' notifications into home page's favorites div](https://greasyfork.org/en/scripts/571937-ao3-put-new-comments-notifications-into-home-page-s-favorites-div)
+----------
 ## Bonus: Light/Dark toolbar toggle button for Zen & Firefox users
 
 A toolbar button i made for my Zen Browser that toggles website dark/light appearance with a single click using the built-in color-scheme preference in the browser settings.
@@ -268,6 +280,7 @@ a couple weeks ago i had near zero knowledge on how to navigate any code in gene
 - [Rosé Pine AO3 site skin](https://github.com/Wolfbatcat/ao3-rose-pine) — specifically my version: [Rosé Pine — Closer to Home](https://github.com/ravenothere/AO3-Rose-Pine-Closer-to-Home)
 - [AO3: Chapter Shortcuts](https://greasyfork.org/en/scripts/549571-ao3-chapter-shortcuts)
 - [AO3: Reading Time & Quality Score](https://greasyfork.org/en/scripts/549777-ao3-reading-time-quality-score)
+- [AO3: Badge for Unread Inbox Messages](https://greasyfork.org/en/scripts/474892-ao3-badge-for-unread-inbox-messages)
 
 **Other Scripts i'm also using (100%recommend)**:
 - [AO3: Advanced Blocker](https://greasyfork.org/en/scripts/549942-ao3-advanced-blocker) — *VERY VERY customizable blocker for literally anything on the website, heals my OCD brain to the core, very beautiful and clean UI, basically a gem.*
