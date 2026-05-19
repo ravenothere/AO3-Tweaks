@@ -64,7 +64,8 @@ All CSS add-ons can work standalone, but for the full experience i recommend usi
   2.  Go to the script's [Greasyfork](https://greasyfork.org/users/1565271-ravenothere) page (linked in the relevant section below) and click **Install**
   3.  Confirm the installation prompt
 
-  > On mobile Firefox, Tampermonkey is available as an add-on and works the same way.
+> - On Android, [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) is available as an add-on in [mobile Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) and works the same way.
+> - On iPhone, use the [Tampermonkey iOS app](https://apps.apple.com/us/app/tampermonkey/id6738342400) or the [Stay App](https://apps.apple.com/us/app/stay-for-safari/id1591620171) (an extra step is needed to activate it—follow [this video](https://www.youtube.com/watch?v=e7Sme3FY0vI)).
   ----------
 
 ## Add-ons
