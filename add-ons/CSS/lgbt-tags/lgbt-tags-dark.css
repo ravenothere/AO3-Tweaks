@@ -1,4 +1,28 @@
-/* LGBTQ+ Flags - Dark Theme Gradients */
+.site-skin-metadata {
+content:
+"
+============================================================
+
+            ✦✦✦ LGBTQ+ Color-Coded Tags ✦✦✦
+                        Dark Theme
+                      By ravenothere
+
+==============================================================
+SKIN METADATA
+==============================================================
+
+  - Add-on:       LGBTQ+ Flags - Dark Theme Gradients
+  - File:         lgbt-tags-dark.css
+  - Author:       ravenothere
+  - Tumblr:       ravenothere
+  - License:      MIT
+  - Updated:      2026-06-04
+
+  - Repository:   https://github.com/ravenothere/AO3-Tweaks
+  - Instructions: https://archiveofourown.org/works/80873616
+
+============================================================";
+}
 
 /* Rainbow Pride */
 [class^="freeform"] a.tag[href*="LGBTQ" i],
@@ -26,7 +50,7 @@
 [class^="freeform"] a.tag[href*="Lesbian" i],
 [class^="freeform"] a.tag[href="/tags/Lesbian/works" i],
 [class^="freeform"] a.tag[href*="Yuri" i] {
-    background: linear-gradient(to bottom, #c98c9a, #c9adbe, #c9c9c9, #c9adbe, #c98c9a) !important;
+    background: linear-gradient(to bottom, #d9aba4, #dabead, #c9c9c9, #c9adbe, #c98c9a) !important;
 }
 
 /* Sapphic (WLW) */
@@ -37,7 +61,7 @@
 
 /* Bisexual */
 [class^="freeform"] a.tag[href*="Bisexual" i],
-[class^="freeform"] a.tag[href*="Bi%20" i],
+[class^="freeform"] a.tag[href*="Bi%20" i]:not([href*="Dabi" i]),
 [class^="freeform"] a.tag[href*="Bi!" i],
 [class^="freeform"] a.tag[href*="%20Bi%20" i],
 [class^="freeform"] a.tag[href="/tags/Bi/works" i] {
@@ -226,7 +250,7 @@
 
 /* Demisexual */
 [class^="freeform"] a.tag[href*="Demisexual" i],
-[class^="freeform"] a.tag[href*="Demi%20" i],
+[class^="freeform"] a.tag[href*="Demi%20" i]:not([href*="Demi%20Lovato" i]),
 [class^="freeform"] a.tag[href*="Demi!" i],
 [class^="freeform"] a.tag[href="/tags/Demisexual/works" i] {
     background: linear-gradient(to bottom, #c9c9c9, #c9c9c9, #c9c9c9, #ae8ccd, #9d9d9d, #9d9d9d, #9d9d9d) !important;

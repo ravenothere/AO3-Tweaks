@@ -1,4 +1,28 @@
-/* LGBTQ+ Flags - Light Theme Pastel Gradients */
+.site-skin-metadata {
+content:
+"
+============================================================
+
+            ✦✦✦ LGBTQ+ Color-Coded Tags ✦✦✦
+                       Light Theme
+                     By ravenothere
+
+==============================================================
+SKIN METADATA
+==============================================================
+
+  - Add-on:       LGBTQ+ Flags - Light Theme Pastel Gradients
+  - File:         lgbt-tags-light.css
+  - Author:       ravenothere
+  - Tumblr:       ravenothere
+  - License:      MIT
+  - Updated:      2026-06-04
+
+  - Repository:   https://github.com/ravenothere/AO3-Tweaks
+  - Instructions: https://archiveofourown.org/works/80873616
+
+============================================================";
+}
 
 /* Rainbow Pride */
 [class^="freeform"] a.tag[href*="LGBTQ" i],
@@ -26,7 +50,7 @@
 [class^="freeform"] a.tag[href*="Lesbian" i],
 [class^="freeform"] a.tag[href="/tags/Lesbian/works" i],
 [class^="freeform"] a.tag[href*="Yuri" i] {
-    background: linear-gradient(to bottom, #ffb3c1, #ffd4e5, #ffffff, #ffd4e5, #ffb3c1) !important;
+    background: linear-gradient(to bottom, #f6c7ad, #ffe4be, #ffffff, #ffd4e5, #ffb3c1) !important;
 }
 
 /* Sapphic (WLW) */
@@ -37,7 +61,7 @@
 
 /* Bisexual */
 [class^="freeform"] a.tag[href*="Bisexual" i],
-[class^="freeform"] a.tag[href*="Bi%20" i],
+[class^="freeform"] a.tag[href*="Bi%20" i]:not([href*="Dabi" i]),
 [class^="freeform"] a.tag[href*="Bi!" i],
 [class^="freeform"] a.tag[href*="%20Bi%20" i],
 [class^="freeform"] a.tag[href="/tags/Bi/works" i] {
@@ -226,7 +250,7 @@
 
 /* Demisexual */
 [class^="freeform"] a.tag[href*="Demisexual" i],
-[class^="freeform"] a.tag[href*="Demi%20" i],
+[class^="freeform"] a.tag[href*="Demi%20" i]:not([href*="Demi%20Lovato" i]),
 [class^="freeform"] a.tag[href*="Demi!" i],
 [class^="freeform"] a.tag[href="/tags/Demisexual/works" i] {
     background: linear-gradient(to bottom, #ffffff, #ffffff, #ffffff, #d5b3f4, #c4c4c4, #c4c4c4, #c4c4c4) !important;
