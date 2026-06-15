@@ -6,7 +6,7 @@
 // @license      MIT
 // @match        *://archiveofourown.org/*
 // @grant        none
-// @namespace    https://greasyfork.org/users/1565271-ravenothere
+// @namespace    https://greasyfork.org/users/1565271
 // ==/UserScript==
 
 (function() {
